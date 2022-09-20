@@ -6,4 +6,4 @@ function multiplyByTwo(value) {
   return () => console.log('please pass a number');
 }
 
-multiplyByTwo('t')();
+multiplyByTwo(4)();
